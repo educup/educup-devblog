@@ -1,0 +1,18 @@
+site_name: EducUp DevBlog
+
+theme:
+  name: material
+  logo: assets/logo.png
+  palette:
+    - scheme: slate
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+      primary: black
+      accent: blue
+    - scheme: default
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+      primary: white
+      accent: blue
