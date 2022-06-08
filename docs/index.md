@@ -1,17 +1,19 @@
-# Welcome to MkDocs
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/36774373/167951672-c8bf5ddb-bcea-4b3a-b4d3-cdb036d75f2f.png" width="400"/>
+</p>
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# EducUp
 
-## Commands
+EducUp is an educational platform on a mission to make learning easy and fun. Start learning now and join a community of more than 1,000,000 learners from 180 countries.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+[Join our community of more than 1M learners now and start learning!](https://bit.ly/EducUpApp)
 
-## Project layout
+## Learn English, Math and more in 10 minutes a day
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Our learning method GET will make you learn in a fun and personalized way.
+
+- **G**AMIFICATION: Enjoy our uniquely gamified learning experience!
+- **E**DUCATORS: Learn with micro-lessons from world-class educators!
+- **T**UTORING: Connect with them for a more personalized experience!
+
+### For more information visit our website: [educup.io](https://educup.io)
